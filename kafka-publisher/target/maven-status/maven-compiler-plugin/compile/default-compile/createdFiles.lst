@@ -1,0 +1,3 @@
+com\order\management\KafkaPublisher.class
+com\order\management\KafkaPublisherApplication.class
+com\order\management\configuration\KafkaProducerConfig.class
