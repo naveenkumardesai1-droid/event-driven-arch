@@ -1,0 +1,7 @@
+com\order\management\model\OrderStatus.class
+com\order\management\events\NotificationEvent.class
+com\order\management\model\OrderItem.class
+com\order\management\processor\NotificationEventProcessor.class
+com\order\management\consumer\ProductConsumer.class
+com\order\management\ProductServiceApplication.class
+com\order\management\service\ProductService.class
